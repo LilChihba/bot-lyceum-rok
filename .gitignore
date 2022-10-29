@@ -1,0 +1,6 @@
+/.venv/
+/resources/questions.json
+/resources/img_old.png
+/resources/img_new.png
+/resources/html.html
+/Tesseract-OCR/
